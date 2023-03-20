@@ -27,7 +27,7 @@ elif imc >= 35 and imc <= 39.9:
     print('Você está com obesidade classe 2.')
 
 else:
-    print('Parabéns!!! -. Você virou uma Baleia-Jubarte kkkkkkkkk.')
+    print('Nível de obesidade classe 3.')
 
 
 # Baixo peso – IMC <18,5
