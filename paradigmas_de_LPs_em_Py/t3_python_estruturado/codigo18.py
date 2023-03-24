@@ -3,3 +3,4 @@ def fatorial(n):
         return 1
     else:
         return n*fatorial(n-1)
+print(fatorial(4))
